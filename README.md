@@ -1,4 +1,4 @@
-# Active Record CRUD
+rake db:migrate SINATRA_ENV=test# Active Record CRUD
 
 ## Objective
 
